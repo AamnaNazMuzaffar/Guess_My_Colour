@@ -1,0 +1,22 @@
+body {
+height: 97vh;
+display: flex;
+flex-direction: column;
+justify-content: center;
+align-items: center;   
+background-color:antiquewhite
+}
+.bulb {
+    height: 100px;
+    width: 100px;
+    margin: 30px;
+    border-radius:20px ;
+    background-color: black;
+
+}
+button {
+padding:  10px;
+border-radius:10px ;
+background-color: black;
+color: white;
+}
